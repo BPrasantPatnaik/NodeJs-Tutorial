@@ -1,0 +1,27 @@
+.home {
+    padding: 20px;
+    background-color: #E2F1E7; /* Light background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .home h1 {
+    color: #333; /* Dark text color */
+    font-size: 2.5em; /* Size for main heading */
+  }
+  
+  .home h2 {
+    color: #28a745; /* Green color for subheading */
+    margin-top: 20px; /* Space above subheading */
+  }
+  
+  .home ul {
+    margin: 15px 0; /* Space above and below the list */
+    padding-left: 20px; /* Indentation for list items */
+  }
+  
+  .home p {
+    color: #10375C; /* Gray text for paragraphs */
+    line-height: 1.6; /* Improved readability */
+  }
+  

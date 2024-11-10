@@ -1,0 +1,24 @@
+/* Footer.css */
+.footer {
+    background-color: #243642; /* Dark background color */
+    color: #E2F1E7; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Padding for the footer */
+    position: relative; /* Allow it to flow normally in the layout */
+    max-width: screen; /* Full width */
+    bottom: 0; /* Align to the bottom */
+    margin-top: auto; /* Push it to the bottom of its parent container */
+  }
+  
+  /* Additional styling to ensure footer is at the bottom */
+  body {
+    display: flex; /* Flexbox for the main layout */
+    flex-direction: column; /* Stack children vertically */
+    min-height: 100vh; /* Full height of the viewport */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .app {
+    flex: 1; /* Allow the main content to take the available space */
+  }
+  

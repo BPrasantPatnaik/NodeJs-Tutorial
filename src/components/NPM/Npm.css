@@ -1,0 +1,56 @@
+.npm-container {
+    padding: 20px;
+    background-color: #E2F1E7;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .npm-container h1 {
+    font-size: 2.5rem;
+    color: green;
+  }
+  
+  .npm-container h2 {
+    font-size: 1.8rem;
+    color: #629584;
+    margin-top: 20px;
+    border-bottom: 2px solid #006400;
+    padding-bottom: 5px;
+  }
+  
+  .npm-container p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #10375C;
+  }
+  
+  .npm-container ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .npm-container li {
+    font-size: 1.2rem;
+    color: green;
+  }
+  
+  .npm-container pre {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+    overflow-x: auto;
+  }
+  .npm-container pre p {
+    color: green;
+    text-decoration: none;
+  }
+  
+  .npm-container code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e9ecef;
+    color: green;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  

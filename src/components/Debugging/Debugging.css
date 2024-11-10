@@ -1,0 +1,66 @@
+.debugging-container {
+  padding: 20px;
+  background-color: #E2F1E7;
+  }
+  
+  .debugging-container h1 {
+    font-size: 2.5rem;
+    color: green;
+    margin-bottom: 20px;
+  }
+  
+  .debugging-container h2 {
+    font-size: 1.8rem;
+    color: #629584;
+    margin-top: 20px;
+    border-bottom: 2px solid #006400;
+    padding-bottom: 5px;
+  }
+  
+  
+  .debugging-container h3 {
+    margin-top: 20px;
+    color : #629584;
+  }
+  
+  .debugging-container p {
+    font-size: 1.1rem;
+    color: #10375C;
+    line-height: 1.6;
+  }
+  
+  .debugging-container code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e9ecef;
+    color: green;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  
+  .debugging-container ol {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .debugging-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  .debugging-container table th, 
+  .debugging-container table td {
+    padding: 8px;
+    border: 1px solid #ddd;
+  }
+  
+  .debugging-container table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+
+  ul{
+    text: white;
+  }
+  

@@ -1,0 +1,37 @@
+.events-container {
+  padding: 20px;
+  background-color: #E2F1E7; /* Light background color */
+  font-family: Arial, sans-serif;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.events-container h1 {
+  color: green; /* Dark text color */
+  font-size: 2.5em; /* Size for main heading */
+}
+
+.events-container h2 {
+  color: #629584; /* Green color for subheading */
+  margin-top: 20px; /* Space above subheading */
+}
+
+.events-container p {
+  color: #10375C; /* Gray text for paragraphs */
+  line-height: 1.6; /* Improved readability */
+  margin-bottom: 15px; /* Space below paragraphs */
+}
+
+.events-container pre {
+  background-color: #eee; /* Light gray background for code */
+  border-radius: 4px; /* Rounded corners */
+  padding: 10px; /* Padding around code */
+  overflow-x: auto; /* Enable horizontal scrolling */
+}
+
+.events-container code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #e9ecef;
+  color: green;
+  padding: 2px 6px;
+  border-radius: 4px;
+}

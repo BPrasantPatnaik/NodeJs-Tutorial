@@ -1,0 +1,71 @@
+.webserver-page {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: #E2F1E7;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .webserver-page h1 {
+    font-size: 2.5rem;
+    color: green;
+  }
+  
+  .webserver-page h2 {
+    font-size: 1.8rem;
+    color: #629584;
+    margin-top: 20px;
+    border-bottom: 2px solid #006400;
+    padding-bottom: 5px;
+  }
+  .webserver-page h3{
+    color : #629584;
+  }
+  
+  
+  .webserver-page p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #10375C;
+  }
+  
+  .webserver-page ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+
+  .webserver-page li {
+    font-size: 1.2rem;
+    color: green;
+  }
+  
+  .webserver-page pre {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+    overflow-x: auto;
+  }
+  
+  .webserver-page code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e9ecef;
+    color: green;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  
+  .webserver-page pre code {
+    white-space: pre-wrap;
+  }
+  
+  .conclusion-section {
+    margin-top: 40px;
+  }
+  
+  .section-divider {
+    height: 2px;
+    background-color: #ddd;
+    margin: 40px 0;
+  }
+  

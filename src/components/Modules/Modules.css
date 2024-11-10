@@ -1,0 +1,80 @@
+.modules-container {
+    padding: 20px;
+    background-color: #E2F1E7; 
+  }
+  
+  .modules-container h1 {
+    
+    font-size: 2.5rem;
+    color: green;
+    margin-bottom: 20px;
+  }
+  
+  .modules-container h2 {
+    font-size: 1.8rem;
+    color: #629584;
+    margin-top: 20px;
+    border-bottom: 2px solid #006400;
+    padding-bottom: 5px;
+  }
+  
+  .modules-container p {
+    font-size: 1.1rem;
+    color: #10375C;
+    line-height: 1.6;
+  }
+  
+  .modules-container ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .modules-container li {
+    margin-bottom: 10px;
+    color : green;
+  }
+  
+  .modules-container code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #e9ecef;
+    color: green;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  
+  .modules-container pre {
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 10px;
+    overflow-x: auto;
+  }
+  
+  .modules-container a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  
+  .modules-container a:hover {
+    text-decoration: underline;
+  }
+  
+  .modules-container table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+  }
+  
+  .modules-container table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: #10375C;
+  }
+  
+  .modules-container table th {
+    background-color: #4CAF50;
+    color: #10375C;
+  }
+  
